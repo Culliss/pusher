@@ -4,6 +4,7 @@
   "version": "0.0.4",
   "author": "Roberto Thais",
   "dependencies": {
+    "request": "2.9.202"
   },
   "devDependencies": {
     "nodeunit": "~> 0.5.1"
