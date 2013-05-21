@@ -1,7 +1,7 @@
 {
   "name": "pusher",
   "description": "A simple node.js publisher lib for pusher.com",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "author": "Roberto Thais",
   "dependencies": {
     "request": "2.9.202"
